@@ -23,7 +23,10 @@
   },
   "homepage": "https://github.com/BillyRyanShelton/static_node_and_express_website#readme",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "console-stamp": "^0.2.7",
     "express": "^4.16.4",
+    "nodemon": "^1.18.10",
     "pug": "^2.0.3"
   }
 }
