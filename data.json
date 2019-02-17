@@ -1,48 +1,48 @@
 {
 	"projects": [
 	{
-		"id": "1",
+		"id": "0",
 		"project_name": "Random Motivational Quote Generator",
-		"description": "Are you looking for motivation?  Do you need encouragement to finish your goals and dreams?  Well check out this simple random motivational quote generator showcasing the absolute best life quotes about never giving up.  Enjoy!",
-		"technologies": "Javascript, HTML, CSS",
+		"description": "Are you looking for motivation?  Do you need encouragement to finish your goals and dreams?  Well check out this simple random motivational quote generator showcasing the absolute best life quotes about never giving up.  Quotes are randomly displayed every 10 seconds or when you press the motivate! button.  Enjoy!",
+		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/Random-Quote-Generator/",
 		"github_link": "https://github.com/BillyRyanShelton/Random-Quote-Generator",
-		"image_urls": ["../img/randomMotivationalQuoteGenerator.png", "../img/randomMotivationalQuoteGenerator2.png", "../img/randomMotivationalQuoteGenerator3.png"]		
+		"image_urls": ["/static/img/randomMotivationalQuoteGenerator.PNG", "/static/img/randomMotivationalQuoteGenerator2.png", "/static/img/randomMotivationalQuoteGenerator3.png"]		
+	},
+	{
+		"id": "1",
+		"project_name": "List Pagination",
+		"description": "Given a list of students, this application dynamically paginates the list of students.  Ten students are displayed at a time and the remaining students are accessible via page links.",
+		"technologies": ["Javascript", "HTML", "CSS"],
+		"live_link": "https://billyryanshelton.github.io/ListPagination/",
+		"github_link": "https://github.com/BillyRyanShelton/ListPagination",
+		"image_urls": ["/static/img/listPagination.png", "/static/img/listPaginationLinks.png", "/static/img/listPaginationSearch.png"]
 	},
 	{
 		"id": "2",
-		"project_name": "List Pagination",
-		"description": "Given a list of students, this application dynamically paginates the list of students.  Ten students are displayed at a time and the remaining students are accessible via page links.",
-		"technologies": "Javascript, HTML, CSS",
-		"live_link": "https://billyryanshelton.github.io/ListPagination/",
-		"github_link": "https://github.com/BillyRyanShelton/ListPagination",
-		"image_urls": ["../img/listPagination.png", "../img/listPaginationLinks.png", "../img/listPaginationSearch.png"]
+		"project_name": "Interactive Form",
+		"description": "When a customer is checking out, they typically have various field inputs such as credit card, name, email and more.  This application validates user input dynamically upon clicking submit.",
+		"technologies": ["Javascript", "JQUERY", "HTML", "CSS"],
+		"live_link": "https://billyryanshelton.github.io/Interactive-Form/",
+		"github_link": "https://github.com/BillyRyanShelton/Interactive-Form",
+		"image_urls": ["/static/img/InteractiveForm.png", "/static/img/InteractiveFormMid.png", "/static/img/InteractiveFormSubmitError.png"]
 	},
 	{
 		"id": "3",
-		"project_name": "Interactive Form",
-		"description": "When a customer is checking out, they typically have various field inputs such as credit card, name, email and more.  This application validates user input dynamically upon clicking submit.",
-		"technologies": "Javascript, JQUERY, HTML, CSS",
-		"live_link": "https://billyryanshelton.github.io/Interactive-Form/",
-		"github_link": "https://github.com/BillyRyanShelton/Interactive-Form",
-		"image_urls": ["../img/InteractiveForm.png", "../img/InteractiveFormMid.png", "../img/InteractiveFormSubmitError.png"]
+		"project_name": "1980's Pop Culture Hangman",
+		"description": "Want to test your 80s knowledge?  Well you can with this 1980s Pop Culture Hangman game.  This game functions on the paradigm of Object Oriented Programming.",
+		"technologies": ["Javascript", "HTML", "CSS"],
+		"live_link": "https://billyryanshelton.github.io/oop_game-v2/",
+		"github_link": "https://github.com/BillyRyanShelton/oop_game-v2",
+		"image_urls": ["/static/img/popCultureLanding.png", "/static/img/popCultureExample.png", "/static/img/popCultureWin.png"]
 	},
 	{
 		"id": "4",
-		"project_name": "1980's Pop Culture Hangman",
-		"description": "Want to test your 80s knowledge?  Well you can with this 1980s Pop Culture Hangman game.  This game functions on the paradigm of Object Oriented Programming.",
-		"technologies": "Javascript, HTML, CSS",
-		"live_link": "https://billyryanshelton.github.io/oop_game-v2/",
-		"github_link": "https://github.com/BillyRyanShelton/oop_game-v2",
-		"image_urls": ["../img/popCultureLanding.png", "../img/popCultureExample.png", "../img/popCultureWin.png"]
-	},
-	{
-		"id": "5",
 		"project_name": "Cosmic Employee directory",
 		"description": "An employee directory is created asyncronously by requesting data from a public API using AJAX.",
-		"technologies": "Javascript, HTML, CSS",
+		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/public_api_request-startup/",
 		"github_link": "https://github.com/BillyRyanShelton/public_api_request-startup",
-		"image_urls": ["../img/employeeDirectoryAsync.png", "../img/employeeDirectory.png", "../img/employeeDirectoryUser.png"]
+		"image_urls": ["/static/img/employeeDirectoryAsync.png", "/static/img/employeeDirectory.png", "/static/img/employeeDirectoryUser.png"]
 	}]
 }
