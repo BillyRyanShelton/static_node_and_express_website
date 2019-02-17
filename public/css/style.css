@@ -39,7 +39,7 @@ h1,h2,h3,h4,h5,p{
 }
 
 a{
-  color: #333;
+  color: #222;
 }
 
 a:hover{
@@ -117,7 +117,7 @@ a:hover{
   }
 
   .portfolio-index a{
-    color: #222;
+    color: #333;
   }
 
   .portfolio-index .cell{

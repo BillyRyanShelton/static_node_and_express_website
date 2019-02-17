@@ -9,7 +9,7 @@ const app = express();
 
 //the key-value pair in req.body is modified so the value is either a string or array
 app.use(bodyParser.urlencoded({ extended: false}));
-//the app is set to serve static files(css js) in the public directory and the pug template engine is set
+//the app is allowed acces to the public folder and the pug template engine is set
 app.use('/static', express.static('public'));
 app.set('view engine', 'pug');
 
