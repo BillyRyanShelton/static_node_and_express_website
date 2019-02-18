@@ -2,10 +2,12 @@ const express = require('express');
 const router = express.Router();
 const projects = require('../data.json').projects;
 
+//get request for /projects is a redirect to the home page
 router.get('/projects', (req, res) => {
 	res.redirect('/');
 });
 
+//get request for project/ id number dynamically creates the project webpage
 router.get('/projects/:id', (req, res, next) => {
 	let id = req.params.id;
 
