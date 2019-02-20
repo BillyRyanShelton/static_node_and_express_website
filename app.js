@@ -28,7 +28,7 @@ app.use(projects);
 app.use(error);
 
 
-// //app listens for connections
-// app.listen(3000, ()=> {
-// 	console.log('Port 3000: Portfolio Site is up and running!');
-// });
+//app listens for connections
+app.listen(path, ()=> {
+	console.log('Port 3000: Portfolio Site is up and running!');
+});
