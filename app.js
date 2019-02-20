@@ -1,8 +1,8 @@
 //node packages express, body parser are loaded
 const express = require('express');
 const bodyParser = require('body-parser');
-const data = require('./data.json');
 const path = require('path');
+const port = process.env.PORT || 3000;
 require('console-stamp')(console, '[HH:MM:ss.l]');
 
 //an express module is created
@@ -29,6 +29,7 @@ app.use(error);
 
 
 //app listens for connections
-app.listen(path, ()=> {
-	console.log('Port 3000: Portfolio Site is up and running!');
+
+app.listen(port, ()=> {
+	console.log('Portfolio Site is up and running!');
 });
