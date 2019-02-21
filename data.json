@@ -7,7 +7,7 @@
 		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/Random-Quote-Generator/",
 		"github_link": "https://github.com/BillyRyanShelton/Random-Quote-Generator",
-		"image_urls": ["/static/img/randomMotivationalQuoteGenerator.PNG", "/static/img/randomMotivationalQuoteGenerator2.png", "/static/img/randomMotivationalQuoteGenerator3.png"]		
+		"image_urls": ["/static/img/randomMotivationalQuoteGenerator.PNG", "/static/img/randomMotivationalQuoteGenerator2.PNG", "/static/img/randomMotivationalQuoteGenerator3.png"]		
 	},
 	{
 		"id": "1",
