@@ -25,7 +25,7 @@
 		"technologies": ["Javascript", "JQUERY", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/Interactive-Form/",
 		"github_link": "https://github.com/BillyRyanShelton/Interactive-Form",
-		"image_urls": ["/static/img/InteractiveForm.PNG", "/static/img/InteractiveFormMid.PNG", "/static/img/InteractiveFormSubmitError.PNG"]
+		"image_urls": ["/static/img/interactiveForm.PNG", "/static/img/interactiveFormMid.PNG", "/static/img/interactiveFormSubmitError.PNG"]
 	},
 	{
 		"id": "3",
