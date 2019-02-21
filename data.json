@@ -7,7 +7,7 @@
 		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/Random-Quote-Generator/",
 		"github_link": "https://github.com/BillyRyanShelton/Random-Quote-Generator",
-		"image_urls": ["/static/img/randomMotivationalQuoteGenerator.PNG", "/static/img/randomMotivationalQuoteGenerator2.PNG", "/static/img/randomMotivationalQuoteGenerator3.png"]		
+		"image_urls": ["/static/img/randomMotivationalQuoteGenerator.PNG", "/static/img/randomMotivationalQuoteGenerator2.PNG", "/static/img/randomMotivationalQuoteGenerator3.PNG"]		
 	},
 	{
 		"id": "1",
@@ -16,7 +16,7 @@
 		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/ListPagination/",
 		"github_link": "https://github.com/BillyRyanShelton/ListPagination",
-		"image_urls": ["/static/img/listPagination.png", "/static/img/listPaginationLinks.png", "/static/img/listPaginationSearch.png"]
+		"image_urls": ["/static/img/listPagination.PNG", "/static/img/listPaginationLinks.PNG", "/static/img/listPaginationSearch.PNG"]
 	},
 	{
 		"id": "2",
@@ -25,7 +25,7 @@
 		"technologies": ["Javascript", "JQUERY", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/Interactive-Form/",
 		"github_link": "https://github.com/BillyRyanShelton/Interactive-Form",
-		"image_urls": ["/static/img/InteractiveForm.png", "/static/img/InteractiveFormMid.png", "/static/img/InteractiveFormSubmitError.png"]
+		"image_urls": ["/static/img/InteractiveForm.PNG", "/static/img/InteractiveFormMid.PNG", "/static/img/InteractiveFormSubmitError.PNG"]
 	},
 	{
 		"id": "3",
@@ -34,7 +34,7 @@
 		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/oop_game-v2/",
 		"github_link": "https://github.com/BillyRyanShelton/oop_game-v2",
-		"image_urls": ["/static/img/popCultureLanding.png", "/static/img/popCultureExample.png", "/static/img/popCultureWin.png"]
+		"image_urls": ["/static/img/popCultureLanding.PNG", "/static/img/popCultureExample.PNG", "/static/img/popCultureWin.PNG"]
 	},
 	{
 		"id": "4",
@@ -43,7 +43,7 @@
 		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/public_api_request-startup/",
 		"github_link": "https://github.com/BillyRyanShelton/public_api_request-startup",
-		"image_urls": ["/static/img/employeeDirectoryAsync.png", "/static/img/employeeDirectory.png", "/static/img/employeeDirectoryUser.png"]
+		"image_urls": ["/static/img/employeeDirectoryAsync.PNG", "/static/img/employeeDirectory.PNG", "/static/img/employeeDirectoryUser.PNG"]
 	},
 	{
 		"id": "5",
@@ -52,6 +52,6 @@
 		"technologies": ["Node.js", "Express", "Pug", "HTML", "CSS"],
 		"live_link": "/",
 		"github_link": "https://github.com/BillyRyanShelton/static_node_and_express_website",
-		"image_urls": ["/static/img/portfolio1.png"]		
+		"image_urls": ["/static/img/portfolio1.PNG"]		
 	}]
 }
