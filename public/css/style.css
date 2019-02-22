@@ -32,6 +32,10 @@ h1,h2,h3,h4,h5,p{
 
 .button{
   background-color: #333;
+    -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px; 
+  -khtml-border-radius: 10px; 
 }
 
 .button:hover{
@@ -54,6 +58,12 @@ a:hover{
   border-radius: 0;
   box-shadow: 0 0 0 1px rgba(10, 10, 10, 0.2);
   line-height: 0;
+
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px; 
+  -khtml-border-radius: 10px; 
+  border:0;
 }
 
 .portfolio-me{
@@ -148,3 +158,26 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+
+.thumbnail{
+  /*rounded borders and shadow box*/
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px; 
+  -khtml-border-radius: 10px; 
+  border: 0;
+  box-shadow: 10px 10px 5px #ccc;
+}
+
+.thumbnail:hover{
+  opacity: .5;
+  box-shadow: 10px 10px 5px   #404040;
+}
+
+
+#logo{
+  box-shadow:none;
+  opacity:none;
+}
+
