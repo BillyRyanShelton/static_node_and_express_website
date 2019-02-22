@@ -3,7 +3,7 @@
 	{
 		"id": "0",
 		"project_name": "Random Motivational Quote Generator",
-		"description": "Are you looking for motivation?  Do you need encouragement to finish your goals and dreams?  Well check out this simple random motivational quote generator showcasing the absolute best life quotes about never giving up.  Quotes are randomly displayed every 10 seconds or when you press the motivate! button.  Enjoy!",
+		"description": "Are you looking for motivation or encouragement to accomplish your goals and dreams?  Check out this simple random motivational quote generator where you can find inspiration and life quotes.  Quotes are randomly displayed every 10 seconds or when you press the “Motivate!” button.",
 		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/Random-Quote-Generator/",
 		"github_link": "https://github.com/BillyRyanShelton/Random-Quote-Generator",
@@ -12,7 +12,7 @@
 	{
 		"id": "1",
 		"project_name": "List Pagination",
-		"description": "Given a list of students, this application dynamically paginates the list of students.  Ten students are displayed at a time and the remaining students are accessible via page links.",
+		"description": "This application dynamically paginates a given list of students.  Ten students are displayed at a time and the remaining students are accessible through the bottom navigation bar which displays additional page links. This coding application can be applied to an organization’s directory, contact list, or client list.",
 		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/ListPagination/",
 		"github_link": "https://github.com/BillyRyanShelton/ListPagination",
@@ -21,7 +21,7 @@
 	{
 		"id": "2",
 		"project_name": "Interactive Form",
-		"description": "When a customer is checking out, they typically have various field inputs such as credit card, name, email and more.  This application validates user input dynamically upon clicking submit.",
+		"description": "I developed this interactive form to validate user input dynamically once a user clicks submit. This allows the organization to improve data collection and can be applied to various other applications.",
 		"technologies": ["Javascript", "JQUERY", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/Interactive-Form/",
 		"github_link": "https://github.com/BillyRyanShelton/Interactive-Form",
@@ -29,8 +29,8 @@
 	},
 	{
 		"id": "3",
-		"project_name": "1980's Pop Culture Hangman",
-		"description": "Want to test your 80s knowledge?  Well you can with this 1980s Pop Culture Hangman game.  This game functions on the paradigm of Object Oriented Programming.",
+		"project_name": "1980's Themed Hangman",
+		"description": "Want to test your 80’s pop culture knowledge? You can do just that with this fun and quirky 80’s Hangman game.  This game functions on the paradigm of Object Oriented Programming.",
 		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/oop_game-v2/",
 		"github_link": "https://github.com/BillyRyanShelton/oop_game-v2",
@@ -48,10 +48,10 @@
 	{
 		"id": "5",
 		"project_name": "Portfolio Webpage",
-		"description": "This is a backend webpage created to showcase projects.  If you're curious about this project, it's the one you're currently using.",
+		"description": "This is a server side application intended to showcase projects.  It contains a homepage, about me page and project descriptions.  It's the webpage you are currently visiting.",
 		"technologies": ["Node.js", "Express", "Pug", "HTML", "CSS"],
 		"live_link": "/",
 		"github_link": "https://github.com/BillyRyanShelton/static_node_and_express_website",
-		"image_urls": ["/static/img/portfolio1.PNG"]		
+		"image_urls": ["/static/img/portfolio1.PNG", "/static/img/portfolio2.PNG","/static/img/portfolio3.PNG"]		
 	}]
 }
