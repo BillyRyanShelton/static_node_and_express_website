@@ -4,7 +4,7 @@ const projects = require('../data.json').projects;
 
 //error is created if no other route is used
 router.use((req, res, next) => {
-	const err = new Error('Not Found');
+	const err = new Error('Page Not Found');
 	err.status = 404;
 	next(err);
 });
@@ -13,7 +13,7 @@ router.use((req, res, next) => {
 router.use((err, req, res, next) => {
 	res.locals.error = err;
 	res.status(err.status);
-	res.render('error');
+	res.render('error', err);
 });
 
 module.exports = router;
