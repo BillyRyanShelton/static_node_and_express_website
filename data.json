@@ -57,7 +57,7 @@
 	{
 		"id": "6",
 		"project_name": "Avengers Gallery",
-		"description": "Want to see fan favorite images of your favorite Avenger? Or perhaps your favorite hero in general?  Here's the webpage for you!  This an image search REACT application which pulls data from Flickr's API, parses the data and displays images returned from your search.  It contains navigation links of some of your favorite Avengers.",
+		"description": "Want to see fan favorite images of your favorite Avenger? Or perhaps your favorite hero in general?  Here's the webpage for you!  This is an image search REACT application which pulls data from Flickr's API, parses the data and displays images returned from your search.  It contains navigation links of some of your favorite Avengers.",
 		"technologies": ["React","Node.js", "Javascript", "JSX", "CSS"],
 		"live_link": "http://react-avengers-gallery.billyryanshelton.com/",
 		"github_link": "https://github.com/BillyRyanShelton/react-avengers-gallery",
