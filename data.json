@@ -53,5 +53,14 @@
 		"live_link": "/",
 		"github_link": "https://github.com/BillyRyanShelton/static_node_and_express_website",
 		"image_urls": ["/static/img/portfolio1.PNG", "/static/img/portfolio2.PNG","/static/img/portfolio3.PNG"]		
+	},
+	{
+		"id": "6",
+		"project_name": "Avengers Gallery",
+		"description": "Want to see fan favorite images of your favorite Avenger? Or perhaps your favorite hero in general?  Here's the webpage for you!  This project is a REACT application which pulls data from Flickr's API, parses the data and displays images returned from your search.  It contains a homepage, about me page and project descriptions.",
+		"technologies": ["REACT","Node.js", "Javascript", "JSX", "CSS"],
+		"live_link": "/",
+		"github_link": "http://react-avengers-gallery.billyryanshelton.com/",
+		"image_urls": ["/static/img/ReactGallery1.PNG", "/static/img/ReactGallery2.PNG","/static/img/ReactGallery3.PNG"]		
 	}]
 }
