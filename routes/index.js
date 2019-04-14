@@ -4,7 +4,7 @@ const projects = require('../data.json').projects;
 
 //get request for main page
 router.get('/', (req, res) => {
-	res.render('index', {projects});
+	res.render('index', {projects.reverse()});
 });
 
 module.exports = router;
