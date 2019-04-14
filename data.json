@@ -62,5 +62,14 @@
 		"live_link": "http://react-avengers-gallery.billyryanshelton.com/",
 		"github_link": "https://github.com/BillyRyanShelton/react-avengers-gallery",
 		"image_urls": ["/static/img/ReactGallery1.PNG", "/static/img/ReactGallery2.PNG","/static/img/ReactGallery3.PNG"]		
+	},
+	{
+		"id": "7",
+		"project_name": "Library Book Catalog",
+		"description": "Are you a librarian needing an application to keep track of the books the library?  Here's a simplistic and straightforward application to do so.  The following application allows a library to create, read, update and delete books for their records.",
+		"technologies": ["JavaScript","Node.js", "Express", "Pug","CSS", "SQLite", "Sequelize"],
+		"live_link": "http://library.billyryanshelton.com/",
+		"github_link": "https://github.com/BillyRyanShelton/sql-school-libary-book-database",
+		"image_urls": ["/static/img/libraryApp1.PNG", "/static/img/libraryApp2.PNG","/static/img/libraryApp3.PNG"]		
 	}]
 }
