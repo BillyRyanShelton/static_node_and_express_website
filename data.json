@@ -71,5 +71,14 @@
 		"live_link": "http://library.billyryanshelton.com/",
 		"github_link": "https://github.com/BillyRyanShelton/sql-school-libary-book-database",
 		"image_urls": ["/static/img/libraryApp1.PNG", "/static/img/libraryApp2.PNG","/static/img/libraryApp3.PNG"]		
+	},
+	{
+		"id": "8",
+		"project_name": "School REST API",
+		"description": "This is a REST API which allows teachers/administrators to handle course information.  Once a teacher creates an account they are able to create new courses which are linked to their unique id.  Teachers can update and delete only courses they have created.  Any teacher is able to retrive a full list of courses.  This application is intended for use by other applications such as web, iOS and Android applications to create, read, update and delete information from a unique Database.   /n/nThe following routes are accepted:/nGET /api/courses - Retreive a list of courses/nGET /api/courses/id/nPOST /api/courses/n PUT /api/courses/",
+		"technologies": ["JavaScript","Node.js", "Express", "Pug","CSS", "SQLite", "Sequelize"],
+		"live_link": "http://library.billyryanshelton.com/",
+		"github_link": "https://github.com/BillyRyanShelton/sql-school-libary-book-database",
+		"image_urls": ["/static/img/libraryApp1.PNG", "/static/img/libraryApp2.PNG","/static/img/libraryApp3.PNG"]		
 	}]
 }
