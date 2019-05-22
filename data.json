@@ -79,6 +79,6 @@
 		"technologies": ["JavaScript","Node.js", "Express", "SQLite", "Sequelize", "Postman"],
 		"live_link": "https://school-courses-rest-api.herokuapp.com/",
 		"github_link": "https://github.com/BillyRyanShelton/school-Courses-Rest-API",
-		"image_urls": ["/static/img/restAPI1.PNG", "/static/img/restAPI2.PNG","/static/img/restAPI3.PNG"]		
+		"image_urls": ["/static/img/restAPI2.PNG", "/static/img/restAPI3.PNG","/static/img/restAPI4.PNG"]		
 	}]
 }
