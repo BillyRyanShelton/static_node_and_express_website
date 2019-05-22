@@ -67,7 +67,7 @@
 		"id": "7",
 		"project_name": "Library Book Catalog",
 		"description": "Are you a librarian needing an application to keep track of books in the library?  Here's a simplistic and straightforward application to do so.  The following application allows a library to create, read, update and delete books for their records.  Feel free to add your favorite books.",
-		"technologies": ["JavaScript","Node.js", "Express", "Pug","CSS", "SQLite", "Sequelize"],
+		"technologies": ["JavaScript","Node.js", "Express", "Pug","CSS", "PostgreSQL", "Sequelize"],
 		"live_link": "http://library.billyryanshelton.com/",
 		"github_link": "https://github.com/BillyRyanShelton/sql-school-libary-book-database",
 		"image_urls": ["/static/img/libraryApp1.PNG", "/static/img/libraryApp2.PNG","/static/img/libraryApp3.PNG"]		
@@ -75,10 +75,10 @@
 	{
 		"id": "8",
 		"project_name": "School REST API",
-		"description": "This is a REST API which allows teachers/administrators to handle course information.  Once a teacher creates an account they are able to create new courses which are linked to their unique id.  Teachers can update and delete courses they have created.  Any user account is able to retrive the list of courses.  This application is intended for use by Web, iOS and Android applications to create, read, update and delete information from one database.  This application accepts GET and POST requests for the /api/users route.  It also accepts GET and POST requests for the /api/courses route. Lastly it accepts GET, PUT and DELETE requests for the /api/courses/:id route.",
-		"technologies": ["JavaScript","Node.js", "Express", "Pug","CSS", "SQLite", "Sequelize"],
-		"live_link": "http://library.billyryanshelton.com/",
-		"github_link": "https://github.com/BillyRyanShelton/sql-school-libary-book-database",
-		"image_urls": ["/static/img/libraryApp1.PNG", "/static/img/libraryApp2.PNG","/static/img/libraryApp3.PNG"]		
+		"description": "This is a REST API which allows teachers/administrators to handle course information.  During account creation passwords are encrypted into the database.  Once a teacher creates an account they are able to create new courses which are linked to their unique id. Teachers can update and delete courses they have created.  Anyone can retrieve the list of courses.  This application is intended for use by Web, iOS and Android applications to create, read, update and delete information from one database.  This application accepts GET and POST requests for the /api/users route.  It also accepts GET and POST requests for the /api/courses route. Lastly it accepts GET, PUT and DELETE requests for the /api/courses/:id route.",
+		"technologies": ["JavaScript","Node.js", "Express", "SQLite", "Sequelize", "Postman"],
+		"live_link": "https://school-courses-rest-api.herokuapp.com/",
+		"github_link": "https://github.com/BillyRyanShelton/school-Courses-Rest-API",
+		"image_urls": ["/static/img/restAPI1.PNG", "/static/img/restAPI2.PNG","/static/img/restAPI3.PNG"]		
 	}]
 }
