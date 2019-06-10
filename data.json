@@ -48,7 +48,7 @@
 	{
 		"id": "5",
 		"project_name": "Portfolio Webpage",
-		"description": "This is a Model-View-Controller application intended to showcase projects.  It contains a homepage, about me page and project descriptions.  It's the webpage you are currently visiting.",
+		"description": "This application is intended to showcase projects through the use of a Model-View-Controller architecture.  It contains a homepage, about me page and project descriptions.  It's the webpage you are currently visiting.",
 		"technologies": ["Node.js", "Express", "Pug", "HTML", "CSS"],
 		"live_link": "/",
 		"github_link": "https://github.com/BillyRyanShelton/static_node_and_express_website",
