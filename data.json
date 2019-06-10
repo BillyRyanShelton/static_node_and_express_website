@@ -21,7 +21,7 @@
 	{
 		"id": "2",
 		"project_name": "Interactive Form",
-		"description": "I developed this interactive form to validate user input dynamically once a user clicks submit. This allows the organization to improve data collection and can be applied to various other applications.",
+		"description": "This interactive form validates user input dynamically once a user clicks submit. This allows the organization to improve data collection and can be applied to various other applications.",
 		"technologies": ["Javascript", "JQUERY", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/Interactive-Form/",
 		"github_link": "https://github.com/BillyRyanShelton/Interactive-Form",
