@@ -39,7 +39,7 @@
 	{
 		"id": "4",
 		"project_name": "Cosmic Employee directory",
-		"description": "An employee directory is created asyncronously by requesting data from a public API using AJAX.",
+		"description": "An employee directory is created asyncronously by requesting data from a public API using AJAX.  The user may click on a person's icon to show more inforomation about the person through a modal window.",
 		"technologies": ["Javascript", "HTML", "CSS"],
 		"live_link": "https://billyryanshelton.github.io/public_api_request-startup/",
 		"github_link": "https://github.com/BillyRyanShelton/public_api_request-startup",
