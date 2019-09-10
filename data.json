@@ -97,6 +97,6 @@
 		"technologies": ["JavaScript", "Node.js", "Express", "Pug", "Bootstrap", "CSS"],
 		"live_link": "http://www.thetidylist.com/",
 		"github_link": "http://www.thetidylist.com/",
-		"image_urls": ["/static/img/tidyList1.PNG", "/static/img/tidyList2.PNG","/static/img/3.PNG"]		
+		"image_urls": ["/static/img/tidyList1.PNG", "/static/img/tidyList2.PNG","/static/img/tidyList3.PNG"]		
 	}]
 }
