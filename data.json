@@ -85,9 +85,18 @@
 		"id": "9",
 		"project_name": "School Courses FullStack Application",
 		"description": "This is a FullStack Javascript application which allows teachers/administrators to handle course information for a school.  There is a API for creating, reading, updating and deleting Courses and Users.  During account creation passwords are encrypted into the database.  Once a teacher creates an account they are able to create new courses which are linked to their unique id. Teachers can update and delete courses they have created.  Anyone can retrieve the list of courses.  This project is an extension of School Courses REST API project.",
-		"technologies": ["JavaScript", "React", "Node.js", "Express", "SQLite", "Sequelize", "Postman"],
+		"technologies": ["JavaScript", "React", "Node.js", "Express", "SQLite", "Sequelize", "Postman", "CSS"],
 		"live_link": "https://fullstackapp-schoolclient.herokuapp.com/",
 		"github_link": "https://github.com/BillyRyanShelton/fullStackAppReactAndRESTapi",
 		"image_urls": ["/static/img/fullStackApp1.PNG", "/static/img/fullStackApp2.PNG","/static/img/fullStackApp3.PNG"]		
+	},	
+	{
+		"id": "10",
+		"project_name": "The Tidy List",
+		"description": "The Tidy List is a utility web application aimed at making the task of completing chores easier.  Anyone can make their own chore list on the fly or for their kids.  As an added bonus there is an optional rewards table which is used to incentivize children to do their chores.",
+		"technologies": ["JavaScript", "Node.js", "Express", "Pug", "Bootstrap", "CSS"],
+		"live_link": "http://www.thetidylist.com/",
+		// "github_link": "https://github.com/BillyRyanShelton/fullStackAppReactAndRESTapi",
+		"image_urls": ["/static/img/tidyList1.PNG", "/static/img/tidyList2.PNG","/static/img/tidyList3.PNG"]		
 	}]
 }
