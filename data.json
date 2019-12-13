@@ -49,7 +49,7 @@
 		"id": "5",
 		"project_name": "Portfolio Webpage",
 		"description": "This application is intended to showcase projects through the use of a Model-View-Controller architecture.  It contains a homepage, about me page and project descriptions.  It's the webpage you are currently visiting.",
-		"technologies": ["Node.js", "Express", "Pug", "HTML", "CSS"],
+		"technologies": ["Node.js", "Express", "Pug", "HTML", "CSS", "Heroku"],
 		"live_link": "/",
 		"github_link": "https://github.com/BillyRyanShelton/static_node_and_express_website",
 		"image_urls": ["/static/img/portfolio1.PNG", "/static/img/portfolio2.PNG","/static/img/portfolio3.PNG"]		
@@ -58,7 +58,7 @@
 		"id": "6",
 		"project_name": "Avengers Gallery",
 		"description": "Want to see fan favorite images of your favorite Avenger? Or perhaps your favorite hero in general?  Here's the webpage for you!  This is an image search REACT application which pulls data from Flickr's API, parses the data and displays images returned from your search.  It contains navigation links of some of your favorite Avengers.",
-		"technologies": ["React","Node.js", "Javascript", "JSX", "CSS"],
+		"technologies": ["React","Node.js", "Javascript", "JSX", "CSS", "Heroku"],
 		"live_link": "http://react-avengers-gallery.billyryanshelton.com/",
 		"github_link": "https://github.com/BillyRyanShelton/react-avengers-gallery",
 		"image_urls": ["/static/img/ReactGallery1.PNG", "/static/img/ReactGallery2.PNG","/static/img/ReactGallery3.PNG"]		
@@ -67,7 +67,7 @@
 		"id": "7",
 		"project_name": "Library Book Catalog",
 		"description": "Are you a librarian needing an application to keep track of books in the library?  Here's a simplistic and straightforward application to do so.  The following application allows a library to create, read, update and delete books for their records.  Feel free to add your favorite books.",
-		"technologies": ["JavaScript","Node.js", "Express", "Pug","CSS", "PostgreSQL", "Sequelize"],
+		"technologies": ["JavaScript","Node.js", "Express", "Pug","CSS", "PostgreSQL", "Sequelize", "Heroku"],
 		"live_link": "http://library.billyryanshelton.com/",
 		"github_link": "https://github.com/BillyRyanShelton/sql-school-libary-book-database",
 		"image_urls": ["/static/img/libraryApp1.PNG", "/static/img/libraryApp2.PNG","/static/img/libraryApp3.PNG"]		
@@ -76,7 +76,7 @@
 		"id": "8",
 		"project_name": "School Courses REST API",
 		"description": "This is a REST API which allows teachers/administrators to handle course information for a school.  During account creation passwords are encrypted into the database.  Once a teacher creates an account they are able to create new courses which are linked to their unique id. Teachers can update and delete courses they have created.  Anyone can retrieve the list of courses.  This application returns JSON and is intended for use by Web, iOS and Android applications to create, read, update and delete information from one database simultaneously.  This application accepts GET and POST requests for the /api/users route.  It also accepts GET and POST requests for the /api/courses route. Lastly it accepts GET, PUT and DELETE requests for the /api/courses/:id route.",
-		"technologies": ["JavaScript","Node.js", "Express", "SQLite", "Sequelize", "Postman"],
+		"technologies": ["JavaScript","Node.js", "Express", "SQLite", "Sequelize", "Postman", "Heroku"],
 		"live_link": "https://school-courses-rest-api.herokuapp.com/",
 		"github_link": "https://github.com/BillyRyanShelton/school-Courses-Rest-API",
 		"image_urls": ["/static/img/restAPI2.PNG", "/static/img/restAPI3.PNG","/static/img/restAPI4.PNG"]		
@@ -85,7 +85,7 @@
 		"id": "9",
 		"project_name": "School Courses FullStack Application",
 		"description": "This is a FullStack Javascript application which allows teachers/administrators to handle course information for a school.  There is a API for creating, reading, updating and deleting Courses and Users.  During account creation passwords are encrypted into the database.  Once a teacher creates an account they are able to create new courses which are linked to their unique id. Teachers can update and delete courses they have created.  Anyone can retrieve the list of courses.  This project is an extension of School Courses REST API project.",
-		"technologies": ["JavaScript", "React", "Node.js", "Express", "SQLite", "Sequelize", "Postman", "CSS"],
+		"technologies": ["JavaScript", "React", "Node.js", "Express", "SQLite", "Sequelize", "Postman", "CSS", "Heroku"],
 		"live_link": "https://fullstackapp-schoolclient.herokuapp.com/",
 		"github_link": "https://github.com/BillyRyanShelton/fullStackAppReactAndRESTapi",
 		"image_urls": ["/static/img/fullStackApp1.PNG", "/static/img/fullStackApp2.PNG","/static/img/fullStackApp3.PNG"]		
@@ -94,7 +94,7 @@
 		"id": "10",
 		"project_name": "The Tidy List",
 		"description": "The Tidy List is a utility web application aimed at making the task of completing chores easier.  Anyone can make their own chore list on the fly or for their kids.  As an added bonus there is an optional rewards table which is used to incentivize children to do their chores.",
-		"technologies": ["JavaScript", "Node.js", "Express", "Pug", "Bootstrap", "CSS"],
+		"technologies": ["JavaScript", "Node.js", "Express", "Pug", "Bootstrap", "CSS", "Heroku"],
 		"live_link": "http://www.thetidylist.com/",
 		"github_link": "http://www.thetidylist.com/",
 		"image_urls": ["/static/img/tidyList1.PNG", "/static/img/tidyList2.PNG","/static/img/tidyList3.PNG"]		
