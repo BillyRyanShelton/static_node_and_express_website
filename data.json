@@ -98,5 +98,14 @@
 		"live_link": "https://thetidylist.herokuapp.com/",
 		"github_link": "https://github.com/BillyRyanShelton/chore-list-utility",
 		"image_urls": ["/static/img/tidyList1.PNG", "/static/img/tidyList2.PNG","/static/img/tidyList3.PNG"]		
+	},	
+	{
+		"id": "11",
+		"project_name": "Ecommerce T-Shirt Site",
+		"description": "A&A Klassy Tees is an secure SSL/TLS Ecommerce website aimed at automating the selling of t-shirts online.  The website is responsive to a variety of devices such as phones, tablets and computers.",
+		"technologies": ["Wordpress", "Woocommerce","Heroku","HostGator"],
+		"live_link": "https://aaklassytees.com/",
+		"github_link": "No Github Link",
+		"image_urls": ["/static/img/aak1", "/static/img/aak2","/static/img/aak3"]		
 	}]
 }
