@@ -106,6 +106,6 @@
 		"technologies": ["Wordpress", "Woocommerce","Heroku","HostGator"],
 		"live_link": "https://aaklassytees.com/",
 		"github_link": "No Github Link",
-		"image_urls": ["/static/img/aak1", "/static/img/aak2","/static/img/aak3"]		
+		"image_urls": ["/static/img/aak1.PNG", "/static/img/aak2.PNG","/static/img/aak3.PNG"]		
 	}]
 }
